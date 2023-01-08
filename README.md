@@ -12,6 +12,8 @@
   </h1>
 </div>
 
+<h6>Don't speak Portuguese? <a href="https://github.com/dtonavitor/dtonavitor/blob/main/README-en.md">Click here</a> to view this page in English</h6>
+
 ### :man_technologist: Sobre mim: 
 Programação e computação são minha paixão desde pequeno. Estou cursando Ciência da Computação no Inteli - Instituto de Tecnologia e Liderança. No momento, busco aprimorar meus conhecimentos na área de programação, UX, negócios e liderança.
 - :zap: No meu tempo livre, gosto de fazer cursos de programação para aprimorar meus conhecimentos.
