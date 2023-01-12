@@ -43,6 +43,15 @@ Programação e computação são minha paixão desde pequeno. Estou cursando Ci
 </div>
 
 ---
+### Principais projetos: 
+<div>
+   Tech Path - <a href="https://github.com/2022M1T4-Inteli/Tech-path">https://github.com/2022M1T4-Inteli/Tech-path</a><br>
+   Antecipação de Parceiros - <a href="https://github.com/2022M2T4-Inteli/Web-Power"> https://github.com/2022M2T4-Inteli/Web-Power</a><br>
+   PICM - Prognóstico Inteligente de Câncer de Mama - <a href="https://github.com/2022M3T4-Inteli/USPIA"> https://github.com/2022M3T4-Inteli/USPIA</a><br>
+   Localizador Online de Veículos - <a href="https://github.com/2022M4T4-Inteli/Estaperto"> https://github.com/2022M4T4-Inteli/Estaperto</a><br>
+</div>
+
+---
 
 ### :fire: Meus Status :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dtonavitor&theme=dark&background=000000)](https://git.io/streak-stats)<br>
