@@ -44,6 +44,16 @@ Programming and computing have been my passion since I was a child. I am studyin
 
 ---
 
+### Main Projects: 
+<div>
+   Tech Path - <a href="https://github.com/2022M1T4-Inteli/Tech-path">https://github.com/2022M1T4-Inteli/Tech-path</a><br>
+   Antecipação de Parceiros - <a href="https://github.com/2022M2T4-Inteli/Web-Power"> https://github.com/2022M2T4-Inteli/Web-Power</a><br>
+   PICM - Prognóstico Inteligente de Câncer de Mama - <a href="https://github.com/2022M3T4-Inteli/USPIA"> https://github.com/2022M3T4-Inteli/USPIA</a><br>
+   Localizador Online de Veículos - <a href="https://github.com/2022M4T4-Inteli/Estaperto"> https://github.com/2022M4T4-Inteli/Estaperto</a><br>
+</div>
+
+---
+
 ### :fire: My Status :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dtonavitor&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtonavitor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
