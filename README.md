@@ -47,6 +47,8 @@ Programação e computação são minha paixão desde pequeno. Estou cursando Ci
    Antecipação de Parceiros - <a href="https://github.com/2022M2T4-Inteli/Web-Power"> https://github.com/2022M2T4-Inteli/Web-Power</a><br>
    PICM - Prognóstico Inteligente de Câncer de Mama - <a href="https://github.com/2022M3T4-Inteli/USPIA"> https://github.com/2022M3T4-Inteli/USPIA</a><br>
    Localizador Online de Veículos - <a href="https://github.com/2022M4T4-Inteli/Estaperto"> https://github.com/2022M4T4-Inteli/Estaperto</a><br>
+   FlightWise - <a href="https://github.com/2023M5T1-Inteli/grupo3"> https://github.com/2023M5T1-Inteli/grupo3</a><br>
+   TrimTech - <a href="https://github.com/2023M6T1-Inteli/grupo3_publico">https://github.com/2023M6T1-Inteli/grupo3_publico</a>
 </div>
 
 ---
