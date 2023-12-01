@@ -24,9 +24,15 @@ Programação e computação são minha paixão desde pequeno. Estou cursando Ci
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript"  alt="Typescript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"  alt="AWS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino"  alt="Arduino" width="40" height="40"/>&nbsp;
@@ -48,7 +54,9 @@ Programação e computação são minha paixão desde pequeno. Estou cursando Ci
    PICM - Prognóstico Inteligente de Câncer de Mama - <a href="https://github.com/2022M3T4-Inteli/USPIA"> https://github.com/2022M3T4-Inteli/USPIA</a><br>
    Localizador Online de Veículos - <a href="https://github.com/2022M4T4-Inteli/Estaperto"> https://github.com/2022M4T4-Inteli/Estaperto</a><br>
    FlightWise - <a href="https://github.com/2023M5T1-Inteli/grupo3"> https://github.com/2023M5T1-Inteli/grupo3</a><br>
-   TrimTech - <a href="https://github.com/2023M6T1-Inteli/grupo3_publico">https://github.com/2023M6T1-Inteli/grupo3_publico</a>
+   TrimTech - <a href="https://github.com/2023M6T1-Inteli/grupo3_publico">https://github.com/2023M6T1-Inteli/grupo3_publico</a><br>
+   NimBBBus - <a href="https://github.com/InteliProjects/2023M7T1-Inteli-Grupo-2">https://github.com/InteliProjects/2023M7T1-Inteli-Grupo-2</a><br>
+   Dolphin = <a href="https://github.com/2023M8T1Inteli/grupo3">https://github.com/2023M8T1Inteli/grupo3</a><br>
 </div>
 
 ---
